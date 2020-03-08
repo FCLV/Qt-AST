@@ -1,0 +1,45 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (QtGuiApplication1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (QtGuiApplication1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  mainwindow.cpp
+C:\Users\LV\source\repos\QtGuiApplication1\QtGuiApplication1\mainwindow.cpp(10,28): error C2027: 使用了未定义类型“Ui::MainWindow”
+C:\Users\LV\source\repos\QtGuiApplication1\QtGuiApplication1\mainwindow.h(13): message : 参见“Ui::MainWindow”的声明
+C:\Users\LV\source\repos\QtGuiApplication1\QtGuiApplication1\mainwindow.cpp(12,7): error C2027: 使用了未定义类型“Ui::MainWindow”
+C:\Users\LV\source\repos\QtGuiApplication1\QtGuiApplication1\mainwindow.h(13): message : 参见“Ui::MainWindow”的声明
+C:\Users\LV\source\repos\QtGuiApplication1\QtGuiApplication1\mainwindow.cpp(15,7): error C2027: 使用了未定义类型“Ui::MainWindow”
+C:\Users\LV\source\repos\QtGuiApplication1\QtGuiApplication1\mainwindow.h(13): message : 参见“Ui::MainWindow”的声明
+C:\Users\LV\source\repos\QtGuiApplication1\QtGuiApplication1\mainwindow.cpp(16,7): error C2027: 使用了未定义类型“Ui::MainWindow”
+C:\Users\LV\source\repos\QtGuiApplication1\QtGuiApplication1\mainwindow.h(13): message : 参见“Ui::MainWindow”的声明
+C:\Users\LV\source\repos\QtGuiApplication1\QtGuiApplication1\mainwindow.cpp(17,27): error C2027: 使用了未定义类型“Ui::MainWindow”
+C:\Users\LV\source\repos\QtGuiApplication1\QtGuiApplication1\mainwindow.h(13): message : 参见“Ui::MainWindow”的声明
+C:\Users\LV\source\repos\QtGuiApplication1\QtGuiApplication1\mainwindow.cpp(18,9): error C2027: 使用了未定义类型“QHeaderView”
+D:\Qt\5.14.1\msvc2015_64\include\QtWidgets\qtreeview.h(53): message : 参见“QHeaderView”的声明
+C:\Users\LV\source\repos\QtGuiApplication1\QtGuiApplication1\mainwindow.cpp(18,45): error C2027: 使用了未定义类型“QHeaderView”
+D:\Qt\5.14.1\msvc2015_64\include\QtWidgets\qtreeview.h(53): message : 参见“QHeaderView”的声明
+C:\Users\LV\source\repos\QtGuiApplication1\QtGuiApplication1\mainwindow.cpp(18,61): error C2065: “ResizeToContents”: 未声明的标识符
+C:\Users\LV\source\repos\QtGuiApplication1\QtGuiApplication1\mainwindow.cpp(19,7): error C2027: 使用了未定义类型“Ui::MainWindow”
+C:\Users\LV\source\repos\QtGuiApplication1\QtGuiApplication1\mainwindow.h(13): message : 参见“Ui::MainWindow”的声明
+C:\Users\LV\source\repos\QtGuiApplication1\QtGuiApplication1\mainwindow.cpp(31,7): error C2027: 使用了未定义类型“Ui::MainWindow”
+C:\Users\LV\source\repos\QtGuiApplication1\QtGuiApplication1\mainwindow.h(13): message : 参见“Ui::MainWindow”的声明
+C:\Users\LV\source\repos\QtGuiApplication1\QtGuiApplication1\mainwindow.cpp(32,7): error C2027: 使用了未定义类型“Ui::MainWindow”
+C:\Users\LV\source\repos\QtGuiApplication1\QtGuiApplication1\mainwindow.h(13): message : 参见“Ui::MainWindow”的声明
+C:\Users\LV\source\repos\QtGuiApplication1\QtGuiApplication1\mainwindow.cpp(33,27): error C2027: 使用了未定义类型“Ui::MainWindow”
+C:\Users\LV\source\repos\QtGuiApplication1\QtGuiApplication1\mainwindow.h(13): message : 参见“Ui::MainWindow”的声明
+C:\Users\LV\source\repos\QtGuiApplication1\QtGuiApplication1\mainwindow.cpp(34,9): error C2027: 使用了未定义类型“QHeaderView”
+D:\Qt\5.14.1\msvc2015_64\include\QtWidgets\qtreeview.h(53): message : 参见“QHeaderView”的声明
+C:\Users\LV\source\repos\QtGuiApplication1\QtGuiApplication1\mainwindow.cpp(34,45): error C2027: 使用了未定义类型“QHeaderView”
+D:\Qt\5.14.1\msvc2015_64\include\QtWidgets\qtreeview.h(53): message : 参见“QHeaderView”的声明
+C:\Users\LV\source\repos\QtGuiApplication1\QtGuiApplication1\mainwindow.cpp(34,61): error C2065: “ResizeToContents”: 未声明的标识符
+C:\Users\LV\source\repos\QtGuiApplication1\QtGuiApplication1\mainwindow.cpp(35,52): error C2027: 使用了未定义类型“Ui::MainWindow”
+C:\Users\LV\source\repos\QtGuiApplication1\QtGuiApplication1\mainwindow.h(13): message : 参见“Ui::MainWindow”的声明
+C:\Users\LV\source\repos\QtGuiApplication1\QtGuiApplication1\mainwindow.cpp(36,7): error C2027: 使用了未定义类型“Ui::MainWindow”
+C:\Users\LV\source\repos\QtGuiApplication1\QtGuiApplication1\mainwindow.h(13): message : 参见“Ui::MainWindow”的声明
+C:\Users\LV\source\repos\QtGuiApplication1\QtGuiApplication1\mainwindow.cpp(201,7): error C2027: 使用了未定义类型“Ui::MainWindow”
+C:\Users\LV\source\repos\QtGuiApplication1\QtGuiApplication1\mainwindow.h(13): message : 参见“Ui::MainWindow”的声明
+C:\Users\LV\source\repos\QtGuiApplication1\QtGuiApplication1\mainwindow.cpp(202,19): error C2027: 使用了未定义类型“Ui::MainWindow”
+C:\Users\LV\source\repos\QtGuiApplication1\QtGuiApplication1\mainwindow.h(13): message : 参见“Ui::MainWindow”的声明
+C:\Users\LV\source\repos\QtGuiApplication1\QtGuiApplication1\mainwindow.cpp(218,7): error C2027: 使用了未定义类型“Ui::MainWindow”
+C:\Users\LV\source\repos\QtGuiApplication1\QtGuiApplication1\mainwindow.h(13): message : 参见“Ui::MainWindow”的声明
+C:\Users\LV\source\repos\QtGuiApplication1\QtGuiApplication1\mainwindow.cpp(230,7): error C2027: 使用了未定义类型“Ui::MainWindow”
+C:\Users\LV\source\repos\QtGuiApplication1\QtGuiApplication1\mainwindow.h(13): message : 参见“Ui::MainWindow”的声明
+C:\Users\LV\source\repos\QtGuiApplication1\QtGuiApplication1\mainwindow.cpp(238,7): error C2027: 使用了未定义类型“Ui::MainWindow”
+C:\Users\LV\source\repos\QtGuiApplication1\QtGuiApplication1\mainwindow.h(13): message : 参见“Ui::MainWindow”的声明
